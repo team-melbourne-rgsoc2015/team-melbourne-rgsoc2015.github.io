@@ -23,4 +23,4 @@ The thing that I've noticed that's different with this blog scaffold compared to
 
 Oh well... you learn something new everyday and this static scaffolding system is quite interesting.
 
-Update: Kudos to @snjqi188who pushed the current blog (what you're seeing now).  The jekyllbootstrap one I used originally had issues with the terminal and she used jekyll-now, forked from @barryclark, which allows updated from github.  The solution's easy and simple.  Which is how things should be.  
+Update: Kudos to @snjqi188 who pushed the current blog (what you're seeing now).  The jekyllbootstrap one I used originally had issues with the terminal and she used jekyll-now, forked from @barryclark, which allows updated from github.  The solution's easy and simple.  Which is how things should be.  
