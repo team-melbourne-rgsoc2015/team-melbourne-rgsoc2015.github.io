@@ -3,7 +3,7 @@ layout: post
 title: Our First Day - Rails Girls Summer of Code 2015 in Melbourne, Australia
 ---
 
-![alt text](https://drive.google.com/file/d/0BzxRUlDjwAFeTldoSzdNbXJuQkE/view?usp=sharing)
+![alt text](https://drive.google.com/open?id=0BzxRUlDjwAFeTldoSzdNbXJuQkE)
 
 Hi, in this daily log we'll provide updates on the things that we plan to do today and some to-dos for the next day...
 We'll also put in our two bob worth on other things, most of it nonsensical probably... but without any further ado here's the daily
