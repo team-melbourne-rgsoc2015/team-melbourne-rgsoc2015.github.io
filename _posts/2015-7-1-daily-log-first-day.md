@@ -13,7 +13,7 @@ Today:
 
 1.  Getting to know our coaching company 
 2.  Setting up a text editor in the new computers our lovely coaching company [Redbubble.com](http://www.redbubble.com) have loaned us (thanks again guys!)
-3.  Getting a local instance of discourse working and being to push from our local instance to our repo.  Using the guide - [installrails.com](http://www.installrails.com) was indispensible!
+3.  Getting a local instance of discourse working and being able to push from our local instance to the github repo.  Using the guide - [installrails.com](http://www.installrails.com) was indispensible in helping us set up an environment.
 4.  Doing our first daily log :-)
 5.  Did our team photo and embedded into this post using google drive. See instructions below.
 
