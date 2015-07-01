@@ -4,11 +4,11 @@ log for the first day for Rails Girls Summer of Code 2015 in freezing Melbourne.
 
 Today:
 
-1 Getting to know our coaching company 
-2 Setting up a text editor in the new computers our lovely coaching company Redbubble.com have loaned us (thanks again guys!)
-3 Getting a local instance of discourse working and being to push from our local instance to our repo
-4 Doing our first daily log :-)
-5 Did our team photo
+1.  Getting to know our coaching company 
+2.  Setting up a text editor in the new computers our lovely coaching company Redbubble.com have loaned us (thanks again guys!)
+3.  Getting a local instance of discourse working and being to push from our local instance to our repo
+4.  Doing our first daily log :-)
+5.  Did our team photo
 
 Weekly goals:
 * Setting up the local environment
