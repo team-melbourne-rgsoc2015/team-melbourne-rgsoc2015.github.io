@@ -1,8 +1,9 @@
 
 ---
-type: post
+layout: post
 title: What we did today and the Chessboard Activity on Eloquent Javascript
 ---
+
 
 ![](https://googledrive.com/host/0BzxRUlDjwAFeUnREY1ZscXg0Q3c)
 
