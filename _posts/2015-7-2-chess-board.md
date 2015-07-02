@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: What we did today and the Chessboard Activity on Eloquent Javascript
