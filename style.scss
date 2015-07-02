@@ -21,6 +21,7 @@ body {
 	background: $white;
   font: 16px/1.4 $helvetica;
   color: $darkGray;
+  text-align:justify;
 }
 
 .container {
@@ -254,7 +255,6 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    text-align:justify;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
     color: $gray;
