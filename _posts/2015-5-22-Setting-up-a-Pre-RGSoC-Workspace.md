@@ -29,34 +29,34 @@ I guess it's symbolic as well since open source is based on the idea of a global
 
 Here's what we've set up for the rest of the month till the official start of RGSoC'15:
 
-1. Trello 
+1. **Trello** 
 As advised by our mentor Dane, it would be crucial to manage workflow smoothly since we're working as a pair afterall. 
 Trello has this gorgeous post-it-note-like feel to it, and it's clear now as to what needs to be done for this pre-RGSoC skill development period.
 Aside from UI, it doesn't clog up our email inbox, which is such a plus point!
 
-2. Skill Development
+2. **Skill Development**
 We'll be working on improving our understanding of javascript and rails. Mainly ember.js, since discourse requires it more so.
 
-3. Figuring out our schedules
+3. **Figuring out our schedules**
 Coincidentally, we'll both be away on travels this June. It might prove tricky to find Wi-fi and coordinate skype sessions during the month since holiday itineraries
 tend to throw both mental, biological and physical energies out of whack. We've made a commitment to at least respond to emails, check trello and keep up with skill development.
 In addition, we both happen to be travelling in some of the most developed countries in the world! Wi-fi? Not an issue!
 
-4. Evaluating the redundancies of certain platforms
+4. **Evaluating the redundancies of certain platforms**
 Prior to our acceptance, we had experimented with certain platforms. For example, Google Drive vs Dropbox. 
 We've come to a conclusion that facilitates both what we're used to and things that don't require unnecessary fees.
 
-a. Dropbox happened to be handy for both of us in sharing files. 
+a. **Dropbox** happened to be handy for both of us in sharing files. 
 
-b. Github, Discourse and email to keep in contact with coaches and mentors.
+b. **Github**, **Discourse** and **email** to keep in contact with coaches and mentors.
 
-c. Github as the base for jekyll bootstrap blog. 
+c. **Github** as the base for jekyll bootstrap blog. 
 
-d. ^ said blog and Twitter to update our quietly amassing followers to the awesome stuff that we'll be getting up to.
+d. ^ said blog and **Twitter** to update our quietly amassing followers to the awesome stuff that we'll be getting up to.
 
-e. Trello for managing workflow.
+e. **Trello** for managing workflow. (edit 1/7: no longer using Trello)
 
-Yes, we do have many pages! However, we want to make sure that this open source project is indeed, open. Meaning that communiation is key
+Yes, we do have many pages. However, we want to make sure that this open source project is indeed, open. Meaning that communiation is key
 and that we learn as much about the open source community as possible. Perhaps we might add on/reduce some of the above terminals in future? We'll see!
 
 
