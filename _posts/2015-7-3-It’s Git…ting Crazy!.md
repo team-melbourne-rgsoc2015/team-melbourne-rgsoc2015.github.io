@@ -1,4 +1,4 @@
-![](https://googledrive.com/host/0B0MprGf2iwLoeHhKMzQ3NEh3UnM)
+![](https://googledrive.com/host/0B0MprGf2iwLoeHhKMzQ3NEh3UnM/)
 
 0800 - Kick-off Supervisor Call with Sara. We were delighted to have Adel and Jo with us this Friday on Hangout. 
 
@@ -26,7 +26,7 @@ We're packed for Week 2! It seems that we're scheduled to meet at least one pers
 
 **3. Created a basic plugin**
 
-![](https://googledrive.com/host/0B0MprGf2iwLobXFVS2ZYcWM4X2s)
+![](https://googledrive.com/host/0B0MprGf2iwLobXFVS2ZYcWM4X2s/)
 
 This was relatively straightforward, thanks to a simple and effective write-up by Robin. We had a couple of questions to ask along the way, and managed them by compiling the list of queries on Google Doc.
 
