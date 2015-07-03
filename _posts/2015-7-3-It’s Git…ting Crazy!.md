@@ -1,4 +1,4 @@
-![](https://googledrive.com/host/0B0MprGf2iwLoYU9QOXFJSTJ4S3M)
+![](https://googledrive.com/host/0B0MprGf2iwLoeHhKMzQ3NEh3UnM)
 
 0800. Kick-off Supervisor Call with Sara. We were delighted to have Adel and Jo with us this Friday on Hangout. 
 
