@@ -1,4 +1,5 @@
 ![](https://googledrive.com/host/0B0MprGf2iwLoYU9QOXFJSTJ4S3M)
+
 0800. Kick-off Supervisor Call with Sara. We were delighted to have Adel and Jo with us this Friday on Hangout. 
 
 Throughout the rest of the day:
@@ -15,9 +16,11 @@ C. **Use Eloquent Javascript** to heighten your understanding of JS (>CodeAcadem
 Thank you to our coach, Adel for this recommendation! Vi and I have found this particularly useful and much more comprehensive than CodeAcademy. Definitely, the latter is great for absolute beginners, but EJ covers more functions, methods and poses more of a challenge than the former.
 
 **2. More, more, more administration work**
+
 We're packed for Week 2! It seems that we're scheduled to meet at least one person everyday starting next week. Anticipate awesome developments in Week 2, World.
 
 **3. Created a basic plugin**
+
 ![](https://googledrive.com/host/0B0MprGf2iwLobXFVS2ZYcWM4X2s)
 This was relatively straightforward, thanks to a simple and effective write-up by Robin. We had a couple of questions to ask along the way, and managed them by compiling the list of queries on Google Doc.
 
