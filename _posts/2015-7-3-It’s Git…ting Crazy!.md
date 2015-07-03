@@ -1,6 +1,6 @@
 ![](https://googledrive.com/host/0B0MprGf2iwLoeHhKMzQ3NEh3UnM)
 
-0800. Kick-off Supervisor Call with Sara. We were delighted to have Adel and Jo with us this Friday on Hangout. 
+0800 - Kick-off Supervisor Call with Sara. We were delighted to have Adel and Jo with us this Friday on Hangout. 
 
 Throughout the rest of the day:
 
@@ -164,5 +164,5 @@ Photoshopping a black-and-white photo into a coloured collage and trying to make
 
 Despite it being a Friday, we stayed in the office for pretty much the whole duration. We promise to make future Fridays more exciting than this! Vi was especially hardworking in git-ing everything. So kudos to her for this particularly fulfilling day!
 
-1700. Off and out. Happy Weekend, World!
+1700 - Off and out. Happy Weekend, World!
 
