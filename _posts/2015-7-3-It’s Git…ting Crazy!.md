@@ -3,17 +3,22 @@
 0800. Kick-off Supervisor Call with Sara. We were delighted to have Adel and Jo with us this Friday on Hangout. 
 
 Throughout the rest of the day:
+
 **1. Eloquent Javascript and WatchAndCode suggestion via Twitter**
 
 Sarah: I started working on Eloquent Javascript: Chapter 4 Exercises. Here are 3 interesting takeaways for today:
 
-A. **Founder** of WatchAndCode, Gordan, tweeted us last night suggesting that we try out the annotated version of Eloquent Javascript. As such, I've been using the site alongside the original EJs for a more thorough understanding of the ways to approach and tackle coding problems.
+**Founder** of WatchAndCode, Gordan, tweeted us last night suggesting that we try out the annotated version of Eloquent Javascript. 
 
-B. **It** becomes more difficult from Chapter 4 onwards.
+As such, I've been using the site alongside the original EJs for a more thorough understanding of the ways to approach and tackle coding problems.
+
+**It** becomes more difficult from Chapter 4 onwards.
 That seems to be the consensus.
 
-C. **Use Eloquent Javascript** to heighten your understanding of JS (>CodeAcademy)
-Thank you to our coach, Adel for this recommendation! Vi and I have found this particularly useful and much more comprehensive than CodeAcademy. Definitely, the latter is great for absolute beginners, but EJ covers more functions, methods and poses more of a challenge than the former.
+**Use Eloquent Javascript** to heighten your understanding of JS (>CodeAcademy)
+Thank you to our coach, Adel for this recommendation! Vi and I have found this particularly useful and much more comprehensive than CodeAcademy. 
+
+Definitely, the latter is great for absolute beginners, but EJ covers more functions, methods and poses more of a challenge than the former.
 
 **2. More, more, more administration work**
 
@@ -22,6 +27,7 @@ We're packed for Week 2! It seems that we're scheduled to meet at least one pers
 **3. Created a basic plugin**
 
 ![](https://googledrive.com/host/0B0MprGf2iwLobXFVS2ZYcWM4X2s)
+
 This was relatively straightforward, thanks to a simple and effective write-up by Robin. We had a couple of questions to ask along the way, and managed them by compiling the list of queries on Google Doc.
 
 The main issues that cropped up were in the last step. 
@@ -35,7 +41,8 @@ And it worked.
 
 **4. Git Masters in Training**
 
-Today was a lesson in git… in Q&A format.  
+Vi: Today was a lesson in git… in Q&A format.  
+
 **What happened?**  We tried to create a basic discourse plugin, just to understand how it worked using Robin’s guide [here](https://meta.discourse.org/t/beginners-guide-to-creating-discourse-plugins/30515).  If you’re a budding discourse developer, try it out - it’s an excellent guide.  Long story short, Sarah’s plugin worked and mine didn’t.  We were both working on our local environment.
 
 **Problem 1 - Pushing Changes to the Repo Ain’t Working** We tried to push our changes to the repo and it didn’t work.  Mine you, our changes were in the plugin directory.  After a bit of too-ing and fro-ing, we looked in gitignore and the plugin directory was in there, so with !/plugin/basic-plugin which mean our plugin was now able to be ‘gitted’.  the “!” symbol means “Not”.  So… !Happy(Jan).
