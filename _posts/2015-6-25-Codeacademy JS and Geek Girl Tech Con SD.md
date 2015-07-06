@@ -16,7 +16,7 @@ Unfortunately, codeacademy cannot be done offline. I can imagine how much easier
 
 I'm looking forward to exploring Ember.js. At the moment, I'll be focusing more on Rails and Ruby, since I've had minimal experience with them. A previous database subject in school has allowed me to familiarize with CRUD, but there's much trepidation in working on Rails using Windows!
 
-Will also be formally installing Discourse on Ubuntu as seen [here](meta.discourse.org/t/beginners-guide-to-install-discourse-on-ubuntu-for-development/14727 -> To be updated in future (25/06/2015) ->
+Will also be formally installing Discourse on Ubuntu as seen [here](meta.discourse.org/t/beginners-guide-to-install-discourse-on-ubuntu-for-development/14727) -> To be updated in future (25/06/2015) ->
 
 -> Update (1/07/2015): Managed to set up my local environment with [these easy-to-follow instructions](http://blog.discourse.org/2013/04/discourse-as-your-first-rails-app/). However, it seems that we'll be using laptops provided by Redbubble, so off to install Discourse on a Mac now!
 
