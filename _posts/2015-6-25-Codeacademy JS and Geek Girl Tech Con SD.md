@@ -18,7 +18,7 @@ I'm looking forward to exploring Ember.js. At the moment, I'll be focusing more 
 
 Will also be formally installing Discourse on Ubuntu as seen [here](meta.discourse.org/t/beginners-guide-to-install-discourse-on-ubuntu-for-development/14727 -> To be updated in future (25/06/2015) ->
 
--> Update (1/07/2015): Managed to set up my local environment with these easy-to-follow instructions http://blog.discourse.org/2013/04/discourse-as-your-first-rails-app/. However, it seems that we'll be using laptops provided by Redbubble, so off to install Discourse on a Mac now!
+-> Update (1/07/2015): Managed to set up my local environment with [these easy-to-follow instructions](http://blog.discourse.org/2013/04/discourse-as-your-first-rails-app/). However, it seems that we'll be using laptops provided by Redbubble, so off to install Discourse on a Mac now!
 
 On another note, I attended my first code/tech-related conference! So I've been eye-ing Geek Girl Tech Cons since my study abroad in Philadelphia. Initially had hoped to go for the Boston GGTC but it was held way too close to the examination period. Thankfully, I happened to be travelling along the West Coast during the San Diego version of the Tech Con. So here's how it went:
 
