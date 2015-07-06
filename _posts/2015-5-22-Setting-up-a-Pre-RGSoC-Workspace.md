@@ -46,15 +46,15 @@ In addition, we both happen to be travelling in some of the most developed count
 Prior to our acceptance, we had experimented with certain platforms. For example, Google Drive vs Dropbox. 
 We've come to a conclusion that facilitates both what we're used to and things that don't require unnecessary fees.
 
-######a. **Dropbox** happened to be handy for both of us in sharing files. 
+> **Dropbox** happened to be handy for both of us in sharing files. 
 
-######b. **Github**, **Discourse** and **email** to keep in contact with coaches and mentors.
+> **Github**, **Discourse** and **email** to keep in contact with coaches and mentors.
 
-######c. **Github** as the base for jekyll bootstrap blog. 
+> **Github** as the base for jekyll bootstrap blog. 
 
-######d. ^ said blog and **Twitter** to update our quietly amassing followers to the awesome stuff that we'll be getting up to.
+> ^ said blog and **Twitter** to update our quietly amassing followers to the awesome stuff that we'll be getting up to.
 
-######e. **Trello** for managing workflow. (edit 1/7/15: no longer using Trello)
+> **Trello** for managing workflow. (edit 1/7/15: no longer using Trello)
 
 Yes, we do have many pages. However, we want to make sure that this open source project is indeed, open. Meaning that communiation is key
 and that we learn as much about the open source community as possible. Perhaps we might add on/reduce some of the above terminals in future? We'll see!
