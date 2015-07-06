@@ -9,7 +9,7 @@ title: It’s Git…ting Crazy!
 
 Throughout the rest of the day:
 
-#####**1. Eloquent Javascript and WatchAndCode suggestion via Twitter**
+#####1. Eloquent Javascript and WatchAndCode suggestion via Twitter
 
 Sarah: I started working on Eloquent Javascript: Chapter 4 Exercises. Here are 3 interesting takeaways for today:
 
@@ -25,11 +25,11 @@ Thank you to our coach, Adel for this recommendation! Vi and I have found this p
 
 Definitely, the latter is great for absolute beginners, but EJ covers more functions, methods and poses more of a challenge than the former.
 
-#####**2. More, more, more administration work**
+#####2. More, more, more administration work
 
 We're packed for Week 2! It seems that we're scheduled to meet at least one person everyday starting next week. Anticipate awesome developments in Week 2, World.
 
-#####**3. Created a basic plugin**
+#####3. Created a basic plugin
 
 ![](https://googledrive.com/host/0B0MprGf2iwLobXFVS2ZYcWM4X2s/)
 
@@ -44,7 +44,7 @@ What worked for us: plugins/basic-plugin/assets/javascripts/initializers/alert.j
 
 And it worked. 
 
-#####**4. Git Masters in Training**
+#####4. Git Masters in Training
 
 Vi: Today was a lesson in git… in Q&A format.  
 
@@ -163,7 +163,7 @@ But…
 Should have checked first that the code worked locally - it did.  The !End…
 
 
-#####**5. Other things worth mentioning about**
+#####5. Other things worth mentioning about
 
 Photoshopping a black-and-white photo into a coloured collage and trying to make it blend in.
 
