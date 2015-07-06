@@ -54,7 +54,8 @@ Rational: Lessening the chances of me breaking anything when pushing, pulling an
 
 Fun fact: [The difference between git pull, git fetch, git clone and git rebase](http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/)
 
-![](https://googledrive.com/host/0B0MprGf2iwLoeHhKMzQ3NEh3UnM/)
+![](https://googledrive.com/host/0B0MprGf2iwLob3ZNeHpoQ1ZORDA/)
+
 
 ![](https://googledrive.com/host/0B0MprGf2iwLoakx3eEIxdmZPN1k/)
 
