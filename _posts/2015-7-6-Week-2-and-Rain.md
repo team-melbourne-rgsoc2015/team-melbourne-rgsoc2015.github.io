@@ -42,10 +42,11 @@ Also getting used to the idea of ‘hooks’ in ember as opposed to the Rails co
 Tonight, we want to look at how an adsense plugin works and followed instructions found [here](https://github.com/discoursehosting/discourse-adsense) for the non-docker installation.  Installed it and have pushed these changes to github on a separate branch.
 More updates to follow tomorrow...
 
+------------------------------------------------------
 
 Sarah: 4 things I did today
 
-###1. 15 minutes with Git and Reading up on Git
+#####1. 15 minutes with Git and Reading up on Git
 
 Rational: Lessening the chances of me breaking anything when pushing, pulling and merging to Github
 
@@ -61,13 +62,13 @@ Fun fact: [The difference between git pull, git fetch, git clone and git rebase]
 
 When you realise that understanding code is simply the same as reading a good story.
 
-###2. Fiddling around more with the Mac
+#####2. Fiddling around more with the Mac
 
 Rational: This was unintentional. But I had to find out if double downloading NodeJS on different versions would be detrimental. As I explored further, I realised it probably wouldn't. The latest installation seemed to overwrite my first one. 
 
 Fun fact: You know Mac is great when even the Terminal line looks beautiful. It's always a horror story with my Windows - but that being said, both are great. [Here's to check what's been installed on your mac.](http://applehelpwriter.com/2013/05/21/how-to-check-whats-been-installed-on-your-mac/)
 
-###3. Meeting Jo for the first time!
+#####3. Meeting Jo for the first time!
 
 Rational: Kick-off Meet-up!
 
@@ -75,7 +76,7 @@ Fun fact: This was my first time meeting our female coach, Jo. (All the girl pow
 
 *- Reminder: Take a photo with her!*
 
-### 4. More about Ember
+##### 4. More about Ember
 
 We tried to install Node.js but there're some administrative issues. Hoping to get it settled because I am itching to create a [ToDoMVC](https://todomvc.com/examples/emberjs/) app. I know, we should have done this a long time ago. But we've got a new laptop to work with - thus more things to install!
 
