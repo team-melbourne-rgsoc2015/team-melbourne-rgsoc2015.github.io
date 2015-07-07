@@ -1,7 +1,9 @@
 ---
 layout: post:
 title: Ember.js, Node.js, Handlebars and Broccoli
----Sarah: I’m once again very thankful towards Redbubble for providing us a proper workspace. The Macbook is coming in very handy. The disk is relatively uncluttered, which leaves much room for us to download and install the programs, dependencies, applications and gems we need. 
+---
+
+Sarah: I’m once again very thankful towards Redbubble for providing us a proper workspace. The Macbook is coming in very handy. The disk is relatively uncluttered, which leaves much room for us to download and install the programs, dependencies, applications and gems we need. 
 
 Downloads made today:
 Node.js
