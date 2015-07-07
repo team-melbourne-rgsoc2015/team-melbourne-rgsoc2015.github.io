@@ -6,11 +6,11 @@ title: Ember, Node, Handlebars and Broccoli
 Sarah: I’m once again very thankful towards Redbubble for providing us a proper workspace. The Macbook is coming in very handy. The disk is relatively uncluttered, which leaves much room for us to download and install the programs, dependencies, applications and gems we need. 
 
 Downloads made today:
-Node.js
-Ember.js
-Bower dependencies
-Broccoli dependencies (yes, you heard right)
-Rack up gems
+  Node.js
+  Ember.js
+  Bower dependencies
+  Broccoli dependencies (yes, you heard right)
+  Rack up gems
 
 That’s pretty scary considering it’s only Day 5 and it seems to be a daily affair to download something new onto Macintosh.
 
@@ -20,8 +20,8 @@ I read the first 5 pages of the [guide](guides.emberjs.com) and fell asleep. Tru
 **What You Need**
 
 Google (this is vital - we want to minimise asking coaches basic questions that can be easily found on google)
-Ability to parse through content pronto (don’t waste time on information that gets you nowhere)
-Courage (to use what you’ve read and shove it onto the terminal)
+  Ability to parse through content pronto (don’t waste time on information that gets you nowhere)
+  Courage (to use what you’ve read and shove it onto the terminal)
 
 I quote Mark Zuckerberg on this one:
 
