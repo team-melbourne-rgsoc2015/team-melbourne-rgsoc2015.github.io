@@ -15,10 +15,15 @@ It used Ember CLI which created the scaffold - using the Ember guides didn’t w
 This activity was fantastic… while there’s still a fair way to go… it was good in getting some form of understanding.  Here’s stuff that I learnt and found interesting (mainly quoted from brownie3003’s website).
 
 > Ember Data is a library for robustly managing model data in Ember.js applications. We'll often see ES6 import statements like import DS from 'ember-data'; that signals the usage of Ember Data.
+
 > A model is represented by an object that stores persistent state (long term living data).
+
 > Fixtures are used to define sample data without the need of querying a backend server.
+
 > In Ember Data, the logic for communicating with a backend data store lives in the Adapter. If the set of backend rules is consistent, we can set up an application-wide adapter, called ApplicationAdapter.
+
 Here’s other stuff I found interesting about Ember:
+
 #### No. 1 Naming convention in Ember and Rails
 I also found the way they set up names is kinda similar to **Rails**.  In Rails, say you wanted to create a thing to handle Posts.
 *You’d have a Post model, a Posts controller, and a Posts view that would have the relevant view pages like index, create and show.*
