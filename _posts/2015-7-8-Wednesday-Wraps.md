@@ -14,4 +14,4 @@ Thus, 3 things I did today:
 
 3. Had a good conversation with Vi. I shared my worries on the advertising plugin, but she calmly listened and made her way to meet me even though she wasn't feeling too well. I'm extremely thankful, and now things don't seem so daunting anymore.
 
-[edit 12/07: title change from 'W' to 'Wednesday Wraps', and a note that we'll be updating the blog according to milestones as opposed to daily records now (we now have more things to do!)]
+[edit 12/07: title change from 'W' to 'Wednesday Wraps', and a note that we'll be updating the blog according to milestones as opposed to daily records now (going to focus on coding now...)]
