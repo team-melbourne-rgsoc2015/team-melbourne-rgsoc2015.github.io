@@ -260,7 +260,12 @@ actions: {
 }
 ```
 
-In your template, you can create a link to do the action which will then GET the firstName and lastName properties.  E.g. <a href="" {{action: showAlert'}}show actor</a>.
+In your template, you can create a link to do the action which will then GET the firstName and lastName properties.
+For example:
+
+```
+<a href ="" {{action: showAlert'}} show actor</a >.
+```
 
 There's more... but that's it for today.... Part 2 of Basic Notes on how Ember.js Works will come tomorrow.
 
