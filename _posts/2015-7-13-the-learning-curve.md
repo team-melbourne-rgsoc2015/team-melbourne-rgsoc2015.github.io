@@ -32,11 +32,12 @@ I'm looking forward to using this more...
 While we've been going through the mechanics of the plugin, I'm feeling rather deficient in the basics, so today went through Videos 1 - 20 of Mastering Ember.js by CodeLogical - you can watch it on youtube.  Thanks also to Sarah for referring me to this great source.  The source uses the old Ember (not Ember CLI), but it's great for understanding the framework.
 
 Before we start, here's a common translation to terms.
-*Render* means to show or display something.
-*Template* is the view of something, it's the file that display the view.
-*Route* is a path, it's supposed to create the URL.
-*URL* is the thing that appears in the box in the browser (when you open up to go on the internet) and it has the website name e.g. www.ember.js is a URL.
-*Link* is something that links you to another thing.  You can embed links within buttons aswell.  
+
+* *Render* means to show or display something.
+* *Template* is the view of something, it's the file that display the view.
+* *Route* is a path, it's supposed to create the URL.
+* *URL* is the thing that appears in the box in the browser (when you open up to go on the internet) and it has the website name e.g. www.ember.js is a URL.
+* *Link* is something that links you to another thing.  You can embed links within buttons aswell.  
 
 Here's what I learnt:
 
