@@ -1,13 +1,13 @@
 ---
 layout: post
-title: The Learning Curve
+title: The Learning Curve + Part 1: 10 Basic Notes on how Ember.js Works
 ---
 
 ![](https://googledrive.com/host/0BzxRUlDjwAFec3VGdXdJNGZQSVU)
 
-Vi: A lifetime ago, when I was doing work as an accountant, I had a fantastic boss name Reynold
+Vi: A lifetime ago, when I was doing work as an accountant, I had a fantastic boss named Reynold
 who was talking about learning being a bunch of dots that, with time, gets linked together.
-I'm starting to feel that the dots are still very apart but hopefully slowly coming together.
+I'm starting to feel that the dots are still very apart but hopefully they'll soon come together.
 
 Today, I:
 
@@ -30,6 +30,13 @@ I'm looking forward to using this more...
 ### Ember Time...
 
 While we've been going through the mechanics of the plugin, I'm feeling rather deficient in the basics, so today went through Videos 1 - 20 of Mastering Ember.js by CodeLogical - you can watch it on youtube.  Thanks also to Sarah for referring me to this great source.  The source uses the old Ember (not Ember CLI), but it's great for understanding the framework.
+
+Before we start, here's a common translation to terms.
+*Render* means to show or display something.
+*Template* is the view of something, it's the file that display the view.
+*Route* is a path, it's supposed to create the URL.
+*URL* is the thing that appears in the box in the browser (when you open up to go on the internet) and it has the website name e.g. www.ember.js is a URL.
+*Link* is something that links you to another thing.  You can embed links within buttons aswell.  
 
 Here's what I learnt:
 
@@ -121,4 +128,141 @@ App.DatabindingController = Ember.Controller.extend({
 })
 ```
 
-This post will be updated later today with more stuff...
+#### 6. Models
+
+> In Ember, every route has an associated model. This model is set by implementing a route's model hook
+
+Models in Ember store data.  In the Ember CLI, this has it's own folder.  Things called fixtures are in here - fixtures
+are like set data that come up when first loading something.  A model hook is created within a route - see...
+
+**app.js** (Route)
+
+```
+export default Ember.Route.extend({
+    model: function() {
+        return this.store.find('todo');
+    },
+```
+
+**model.js** within the model folder if using CLI.  It holds the fixtures and gets data from the data store.  The title is a string and isCompleted is a true/false.
+
+```
+import DS from 'ember-data';
+
+export default DS.Model.extend({
+  title: DS.attr('string'),
+  isCompleted: DS.attr('boolean')
+}).reopenClass({
+  FIXTURES: [
+      {
+          id: 1,
+          title: "Complete Ember.js Tutorial",
+          isCompleted: false
+      },
+      {
+          id: 2,
+          title: "Checkout some more ember stuff",
+          isCompleted: true
+      },
+      {
+          id: 3,
+          title: "Solve world hunger (with Ember)",
+          isCompleted: false
+      }
+  ]
+});
+```
+
+**template.hbs** - you can show your items here.
+
+```
+Template for all the first model
+{{#each item in model}}
+	<li>{{item.title}}</li>
+{{/each}}
+```
+
+#### 7. Redirecting and Linking
+
+You might need to redirect routes.  There are two ways:
+
+* Redirect function in route.
+
+```
+App.IndexRoute = Ember.Route.extend({
+	redirect: function() {  //The redirect is a HOOK.
+		this.transitionTo('link to name of route');
+	}
+})
+```
+
+* Redirect in a controller
+
+```
+App.IndexController = Ember.ObjectController.extend({
+	actions: {
+		linkClicked: function() {
+			this.transitionToRoute('about');
+		}
+	}
+});
+```
+
+To create links in Ember, use {{#link-to}}, kinda like the link_to in Rails.  For example {{#link-to 'name_of_route}}Text_that_ppl see{{/link-to}}.
+
+
+#### 8. Application template and outlet
+
+What is {{outlet}}?  It pretty much renders (or shows) all the subpages within the js application.
+So you have your application, then the individual routes that show beneath this.  It means that the application doesn't have to reload.
+
+
+#### 9. Using a different template without create a new route.
+
+This is possible in Ember through the use of renderTemplate hook.  A hook in Ember is the thing in a Route that is before the expression of function().
+
+```
+App.AboutRoute = Ember.Route.extend({
+	renderTemplate: function() {
+		this.render('PUT_THE_NAME_OF_THE_TEMPLATE_YOU_WANT_TO_RENDER');
+	}
+});
+```
+
+This is not normally used in this way but rather with another outlet (see below)
+
+```
+{{outlet}}
+	{{outlet outlet2}} // You'd render something here.
+```
+
+```
+	this.render();
+	this.render('aboutme', {}); // this would render in the 2nd outlet.
+```
+
+#### 10. GET and SET in Ember.js
+
+If you want to get properties in a controller inside a method use GET and if you want to set new properties, then use SET.
+
+```
+actions: {
+	showAlert: function() {
+		var actor = this.get('firstName') + ' ' + this.get('lastName');
+		alert('The actor is '+ actor);
+	}
+	setAnotherActor: function() {
+		this.set('firstName', 'Michael');
+		this.set('lastName', 'Schofield'); // This might have been changed in the new version.
+		var newActor = this.get('firstName') + ' ' + this.get('lastName');
+		alert('The new actor is ' + newActor);
+	}
+}
+```
+
+In your template, you can create a link to do the action which will then GET the firstName and lastName properties.  E.g. <a href="" {{action: showAlert'}}show actor</a>.
+
+There's more... but that's it for today.... Part 2 of Basic Notes on how Ember.js Works will come tomorrow.
+
+Noche...
+
