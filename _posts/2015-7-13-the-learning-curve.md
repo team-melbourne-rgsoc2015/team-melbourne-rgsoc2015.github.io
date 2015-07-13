@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Learning Curve and Part 1 - 10 Basic Notes on how Ember.js Works
+title: The Learning Curve and Part 1: 10 Basic Notes on how Ember.js Works
 ---
 
 ![](https://googledrive.com/host/0BzxRUlDjwAFec3VGdXdJNGZQSVU)
