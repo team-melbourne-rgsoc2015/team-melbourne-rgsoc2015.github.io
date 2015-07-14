@@ -38,6 +38,7 @@ return value.substr(0, 5);
 ```
 
 The in the Handlebars template:
+*The handlebars stuff isn't appearing atm, it renders in markdown so it may be the platform we're using*
 
 ```
 {{name_of_helper key_name_here}} - will apply the helper method to the value of the key.
