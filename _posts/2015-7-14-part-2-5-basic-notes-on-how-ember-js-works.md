@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Part 2 with another 5 Basic Notes on how Ember.js Works
+title: Part 2 with another 10 Basic Notes on how Ember.js Works
 ---
 
-Vi: Continued from the previous blog post...
+![](https://googledrive.com/host/0BzxRUlDjwAFeXzZpR0lwdUp5QUk)
+
+Vi: This post is a continued from the Part 1 blog post.
 
 #### 11. Ember Helpers - The Already Given Ember Helpers and Make Your Own!
 
@@ -238,8 +240,182 @@ App.Comment.FIXTURES = [
 // Because of the association, for each blog post, it will display the comments that belong to that particular blog post.
 ```
 
+#### 16. Dynamic Segments
+
+In the picture, a dynamic segment is the part that I've circled in a red circle.  It a way to access an individual record of something much larger.  Think of it as a bucket of coloured lollies of uniquely coloured lollies, so there's no repeat of the same colour and you're trying to pick out a hot pink coloured lolly.
+
+![](https://googledrive.com/host/0BzxRUlDjwAFeXzZpR0lwdUp5QUk)
+
+A dynamic segment url is usually set up to look like this 
+
+```
+path: '/lollies/:lolly_id'
+```
+
+Let's go through an example of setting up a dynamic segment.
+
+```
+App.Router.map(function() {
+    this.route('people', {path: '/people'});
+    this.route('person', {path: '/people/:id'});
+});
+
+// Create a route - if defined, a model is defined and if it's an array, it'll create an array controller in the background, otherwise it'll create an object controller.
+
+App.PeopleRoute = Ember.Route.extend({
+    model: function() {
+        return this.store.find('person');
+    }
+});
+
+// You'd also have created the template.
+```
+
+Link to helper to link to that single person in People template.  So in the People template:
+
+```
+{{#each}}
+    {{#link-to 'person' this}} {{firstName}} {{lastName}} {{/link-to}}
+{{/each}}
+```
+
+Then you need to have a template for a single person.
+
+```
+{{firstName}}{{lastName}}
+```
+
+At this point, we've created a model, so a link would take us to the right place.  But that was done through the model.
+If you had the URL and when from URL or even if you refreshed, this wouldn't then work - You need a HOOK. Do the below...
+
+```
+App.PersonRoute = Ember.Route.extend({
+    model: function(params) {
+        return this.store.find('person', params.id); // We're accessing the dynamic segment here.
+    }
+})
+```
+
+#### 17. Creating Forms and Submit
+
+You create a form to get data. Here's a simple way to use Ember to do that...
+
+In your template:
+
+```
+<form {{action 'handleSubmit' on="submit"}}>
+    {{input value=firstName}}
+    <button type="submit">Submit</button>
+</form>
+```
+
+In the Controller...
+
+```
+App.IndexController = Ember.ObjectController.extend({
+    action: {
+        handleSumbit: function(){
+        alert('First is'+ this.get('firstName'));
+    }
+});
+```
+
+#### 18. Decorating Controller
+
+What to add extra properties to controller but it's not appropriate to add to the model. For example, if you have a post model with a whole bunch of post details, it would be appropriate to put the category of the post perhaps in the controller.
+
+In **app.js**
+
+```
+App.IndexRoute = Ember.Route.extend({
+    model: function() {
+        return ['red', 'yellow', 'blue'];
+    },
+    setupController: function(controller, model) {
+        controller.set('model', model);
+        controller.set('owner', 'Eggsy');
+    }
+});
+```
+
+In the template:
+
+```
+{{owner}}
+```
+
+#### 19. Communicating Between Controllers
+
+Tells one controller to access another controller to do stuff.
+
+
+```
+App.IndexController = Ember.ArrayController.extend({
+    actions: {
+        callAboutController: function() {
+            this.get('controllers.about').send('popup'); // now we have access to the about and we need to use send.
+        },
+        popup: function() {
+            alert('popup from index controller');
+        }
+    }
+});
+
+App.AboutController = Ember.ObjectController.extend({
+    actions:
+        callIndexController: function() {
+            this.get('controllers.index').send('popup');  // now we have access to the index and we need to use send.
+        },
+        popup: function(){
+            alert('pop up from about controller');
+        }
+});
+
+// In index template
+<button {{action 'callAboutController'}}> Call About pop</button>
+
+// In about template
+<button {{action 'callIndexController'}}> Call index pop</button>
+
+
+// Give access to each individual controller - important
+
+App.IndexController = Ember.ArrayController.extend({
+    needs: ['about'],
+})
+
+App.AboutController = Ember.ObjectController.extend({
+needs: ['index'],
+})
+
+```
+
+#### 20. Sub Routes or Nested Routes
+
+Use resources to create sub routes, just like in Rails.
+
+Originally:
+
+```
+this.route('articles', {path: '/articles'})
+```
+
+Now with this... you'll have subroutes.
+
+```
+this.resource('articles',{path: 'articles'}, function() {
+    Declare your subroutes in here e.g.
+    /articles/new
+    this.route('new', {path: '/new'});
+    this.route('edit', {path: '/edit/:id'});  // Because you need an existing id to edit it.
+});
+```
+
+Then create templates of name: articles/new but then also remember to add {{outlet}} to your articles container template so that it can render the new and edit show in the resources.
+
+That's a wrap...
+
 Here is a pic of Gazelle, from Kingsman Secret Service... just because... (It's a good movie).
 
 ![](https://googledrive.com/host/0BzxRUlDjwAFebHZ0cXhqNVFOTWM)
 
-Part 3 to follow tomorrow on Ember... It'll be the last part
