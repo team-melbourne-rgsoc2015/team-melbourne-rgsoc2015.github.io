@@ -48,7 +48,6 @@ PS: Hope to hear more from mentor and coaches about the possibilities of a html 
 ##### Better at Git
 With more exposure, I've been getting git commands on the terminal right! This includes git push, pull and commits. Finding more sense in pull requests and branches now that I know what they're for. Commenting on code is great with them too.
 
-As such, poking. Vi did it! working from Vi's code!
 
 ![](https://googledrive.com/host/0B0MprGf2iwLoOUVhb25udzdzb0k)
 
