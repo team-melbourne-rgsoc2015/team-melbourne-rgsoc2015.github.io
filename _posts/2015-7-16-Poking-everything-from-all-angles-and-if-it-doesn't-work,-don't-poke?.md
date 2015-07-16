@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coding: Poking everything from all angles and if it doesn't work, don't poke?
+title: Poking everything from all angles and if it doesn't work, don't poke?
 ---
 
 Here's one week's worth of backlog for this lovely space!
