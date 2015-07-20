@@ -6,13 +6,13 @@ I've been meaning to blog about this for awhile now. Let's take a look at some r
 
 ##### What is Migration?
 
-![](https://googledrive.com/host/0B0MprGf2iwLob3RHcnQzcW9mSTg)
+![alt text](https://www.dropbox.com/sc/37iw54xfifwgukf/AABPsmVwd7s18f190W0VsEcka?dl=1)
 
 I heard this word being used around the office and decided to search for the formal definition of it instead of convincing myself that I know what it means when I actually don't.
 
 ##### Japanese explanations on code!
 
-![](https://googledrive.com/host/0B0MprGf2iwLoZnpkRjNOUXdKcUU)
+![alt text](https://www.dropbox.com/sc/wfb999oe0gksyqm/AACDIMebBIEQwt9v2rKQ_Hvqa?dl=1)
 
 One of my finds whilst searching for examples of x.parentNode.removeChild();
 
