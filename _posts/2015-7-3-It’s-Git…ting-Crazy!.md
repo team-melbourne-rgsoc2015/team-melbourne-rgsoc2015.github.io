@@ -3,7 +3,7 @@ layout: post
 title: It’s Git…ting Crazy!
 ---
 
-![](https://googledrive.com/host/0B0MprGf2iwLoeHhKMzQ3NEh3UnM/)
+![](https://www.dropbox.com/sc/wt14z1jf29rah5o/AAB5PhGSIc6sGF77D4gByGlWa?dl=1)
 
 0800 - Kick-off Supervisor Call with Sara. We were delighted to have Adel and Jo with us this Friday on Hangout. 
 
@@ -31,13 +31,13 @@ We're packed for Week 2! It seems that we're scheduled to meet at least one pers
 
 #####3. Created a basic plugin
 
-![](https://googledrive.com/host/0B0MprGf2iwLobXFVS2ZYcWM4X2s/)
+![](https://www.dropbox.com/sc/cw0le6wgqs2saua/AACdhERVCRyPJQymXdHLhCnSa?dl=1)
 
 This was relatively straightforward, thanks to a simple and effective write-up by Robin. We had a couple of questions to ask along the way, and managed them by compiling the list of queries on Google Doc.
 
 The main issues that cropped up were in the last step. 
 
-![](https://googledrive.com/host/0B0MprGf2iwLoNnZmSWo3Z2xValU)
+Instead of `plugins/basic-plugin/assets/javascripts/discourse/initializers/alert.js.es6`
 
 What worked for us: plugins/basic-plugin/assets/javascripts/initializers/alert.js.es6
 (*refrain from creating a discourse folder*)
