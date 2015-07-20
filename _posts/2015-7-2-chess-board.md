@@ -4,7 +4,8 @@ title: What we did today and the Chessboard Activity on Eloquent Javascript
 ---
 
 
-![](https://googledrive.com/host/0BzxRUlDjwAFeUnREY1ZscXg0Q3c)
+![alt text](https://www.dropbox.com/sc/6j7sxvlc2ewr4rg/AACZ705URNgj4YYCcvnBEu1ka?dl=1)
+
 
 Today, it was very cold and rainy in Melbourne.  Sarah ate a salad for lunch and I went to Coles to get a Pepper Steak Pie with the 
 squeeze tomato sauce - which despite my best efforts, didn't squeeze out.  What else... Sarah and I adjusted our seats to make it more ergonomically friendly.  Now that the
