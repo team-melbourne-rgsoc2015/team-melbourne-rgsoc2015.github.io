@@ -19,7 +19,7 @@ big events have been cover above, here are the other things we did:
 * Going through the ember.js docs
 * Going through exercises on eloquent javascript (the chessboard activity has a subheading of its own - check it out below) - which is a fantastically written book.
 
-![](https://googledrive.com/host/0BzxRUlDjwAFeMksyUFg0Uk1HZ0E)
+![](https://www.dropbox.com/sc/zzd3hgjdjyvxxqi/AAAEATuNYLfPztAiFFTSYbtxa?dl=1 )
 
 ### The Chessboard Activity on Eloquent Javascript
 
