@@ -3,7 +3,7 @@ layout: post
 title: Part 2 with another 10 Basic Notes on how Ember.js Works
 ---
 
-![](https://googledrive.com/host/0BzxRUlDjwAFeXzZpR0lwdUp5QUk)
+![alt text](https://www.dropbox.com/sc/1io6a8ng4hpue3z/AABVo8nHI21zVARdzcgWHE3va?dl=1)
 
 Vi: This post is a continued from the Part 1 blog post.
 
@@ -245,7 +245,7 @@ App.Comment.FIXTURES = [
 
 In the picture, a dynamic segment is the part that I've circled in a red circle.  It a way to access an individual record of something much larger.  Think of it as a bucket of coloured lollies of uniquely coloured lollies, so there's no repeat of the same colour and you're trying to pick out a hot pink coloured lolly.
 
-![](https://googledrive.com/host/0BzxRUlDjwAFeXzZpR0lwdUp5QUk)
+![](https://www.dropbox.com/sc/1qmee5p8evq76qz/AACqdbhb7WNCVGnrkmCQM_jsa?dl=1)
 
 A dynamic segment url is usually set up to look like this 
 
@@ -418,5 +418,5 @@ That's a wrap...
 
 Here is a pic of Gazelle, from Kingsman Secret Service... just because... (It's a good movie).
 
-![](https://googledrive.com/host/0BzxRUlDjwAFebHZ0cXhqNVFOTWM)
+![alt text](https://www.dropbox.com/sc/4yd3si33i9cv22u/AACdIReGt065jDIGIuz2OdUna?dl=1)
 
