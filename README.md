@@ -1,4 +1,4 @@
-This is just the repo holding the blog structure so that our team can publish blog posts that to on team-melbourne-rgsoc2015.github.io.
+This is just the repo holding the blog structure so that our team can publish blog posts that to on team-melbourne-rgsoc2015.github.io.  Below are details for our team's personal use on how to publish posts.
 
 ---
 
