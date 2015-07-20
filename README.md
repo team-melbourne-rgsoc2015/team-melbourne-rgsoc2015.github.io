@@ -1,3 +1,7 @@
+This is just the repo holding the blog structure so that our team can publish blog posts that to on team-melbourne-rgsoc2015.github.io.
+
+---
+
 # Jekyll Now
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
