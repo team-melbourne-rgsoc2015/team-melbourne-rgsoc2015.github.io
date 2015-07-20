@@ -3,7 +3,7 @@ layout: post
 title: The Learning Curve & Part 1 with 10 Basic Notes on how Ember.js Works
 ---
 
-![](https://googledrive.com/host/0BzxRUlDjwAFec3VGdXdJNGZQSVU)
+![alt text](https://www.dropbox.com/sc/t132rp8kvqyjgi8/AADsnL_b4orOg2Ar_QvMtXeHa?dl=1)
 
 Vi: A lifetime ago, when I was doing work as an accountant, I had a fantastic boss named Reynold
 who was talking about learning being a bunch of dots that, with time, gets linked together.
@@ -15,7 +15,7 @@ Today, I:
 * Found a shortcut - to comment things out in a text editor, highlight and then command + forward slash (/).
 * Played around with the inspector on Chome to create a break and also to check out routes on Ember sites (check out the pics below).
 
-![](https://googledrive.com/host/0BzxRUlDjwAFed1gwWUNuOWlxQjg)
+![alt text](https://www.dropbox.com/sc/joaovaimrz57vwc/AAA0NaMX0X0aSmvdEsUy03DZa?dl=1)
 
 This is a screenshot of a website that uses the current adsense plugin done by DiscourseHosting.  Yes - I've been browsing Shopbop lately to see what new clothes they have...
 Anyway, in that pic, you can see in their code adbygoogle.push({}); which looks like it's pushing an empty object.
@@ -25,7 +25,7 @@ Our lovely mentor, Dane, from RedBubble, suggested we try creating a break.  In 
 I put a break in line 29 and reloaded (refreshed) the site and the ad didn't load (see below).
 I'm looking forward to using this more...
 
-![](https://googledrive.com/host/0BzxRUlDjwAFec3VGdXdJNGZQSVU)
+![alt text](https://www.dropbox.com/sc/t132rp8kvqyjgi8/AADsnL_b4orOg2Ar_QvMtXeHa?dl=1)
 
 ### Ember Time...
 
