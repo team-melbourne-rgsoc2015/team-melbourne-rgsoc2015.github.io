@@ -50,14 +50,14 @@ Sarah: 4 things I did today
 
 Rational: Lessening the chances of me breaking anything when pushing, pulling and merging to Github
 
-![](https://googledrive.com/host/0B0MprGf2iwLoWlBVdXh1bHZOUWM)
+![alt text](https://www.dropbox.com/sc/aztjt7u4sefsj8k/AAB13B2_GwRCdtyR8IuQd0AOa?dl=1)
 
 Fun fact: [The difference between git pull, git fetch, git clone and git rebase](http://blog.mikepearce.net/2010/05/18/the-difference-between-git-pull-git-fetch-and-git-clone-and-git-rebase/)
 
-![](https://googledrive.com/host/0B0MprGf2iwLob3ZNeHpoQ1ZORDA/)
+![alt text](https://www.dropbox.com/sc/tjhmmnse0gnidcp/AACTjpr07rCBkEnH4EV3M78ja?dl=1)
 
 
-![](https://googledrive.com/host/0B0MprGf2iwLoakx3eEIxdmZPN1k/)
+![alt text](https://www.dropbox.com/sc/jna05qkrbvynbki/AAC17gpCLx3owXHhYLvBELLAa?dl=1)
 
 *http://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell*
 
