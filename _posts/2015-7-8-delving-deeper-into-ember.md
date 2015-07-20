@@ -3,7 +3,7 @@ layout: post
 title: Delving Deeper into Ember
 ---
 
-![](https://googledrive.com/host/0BzxRUlDjwAFeOVUza3JMR2V5UlE)
+![alt text](https://www.dropbox.com/sc/phc4f2y70f51r7a/AAA2yw0leWEIVdRR0eW3Rq8Ua?dl=1)
 
 Vi: Today, I was not well so I worked from home.  Working from home has its upsides.  I’ve been in bed on the computer the whole day (although I don’t think that’s something to brag about) and it’s super comfy in PJ.  The downside of working from home is that I’ve been eating biscuits, rice crackers etc… pretty much anything that I can find at home… and the temptation to internet browse is great.  Meanwhile, how cute is Ember’s Tomster - wonder if he’s a guinea pig.  My fav is the Fishy Tomster - so adorable!
 
