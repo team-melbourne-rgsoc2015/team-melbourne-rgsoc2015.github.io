@@ -25,7 +25,7 @@ I read the first 5 pages of the [guide](guides.emberjs.com) and fell asleep. Tru
 
 I quote Mark Zuckerberg on this one:
 
-![](https://googledrive.com/host/0B0MprGf2iwLob0ExOUR5SXhrcms)
+![alt text](https://www.dropbox.com/sc/fguf9avgs41dibe/AAAUXcARKXXEFiCXFPzFhhYJa?dl=1)
 
 *I do not own this quote or picture, as you can see, startup quote made [this site](http://startupquote.com/post/1624569753)*
 
@@ -86,7 +86,7 @@ Second Note: If you’re told that rails commands can’t run on your ruby, get 
 
 #####Creating the ToDoMVC App
 
-![](https://googledrive.com/host/0B0MprGf2iwLodUhRa0R1eFFNZzg)
+![alt text](https://www.dropbox.com/sc/68r13320ubu2oj9/AADomTSZYEnqCD4-1t2vfQDka?dl=1)
 
 Thank you [CubicleApps](http://www.cubicleapps.com/articles/todo-mvc-with-ember-cli-part-1#) for such a good guide that is compatible with my current version of EmberCLI.
 
@@ -113,7 +113,7 @@ plugin and look at each of the files and tried to understand what each did.
 
 Here's the screenshot of my text editor with the files...
 
-![](https://googledrive.com/host/0BzxRUlDjwAFebDZVYmRJX0hTMHM)
+![](https://www.dropbox.com/sc/vhgan5omkqrlgae/AAA50iGoXy8rqg2Sg2TI712ra?dl=1)
 
 Here's what (I think) each of the files does in the Adsense plugin:
 
