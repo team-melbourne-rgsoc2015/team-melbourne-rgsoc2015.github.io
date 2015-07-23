@@ -10,7 +10,7 @@ You should though at least [check it out](www.redbubble.com).
 
 Anyway, during the team showcase (where every team presents), one of the teams spoke in passing of the new google recaptcha tag.
 I made a mental note because I use recaptcha in my rails app to ward away spam.  It's that thing which asks you to type in some really 
-blurry words before you can send an email.  I looked like this:
+blurry words before you can send an email.  It looked like this:
 
 ![](https://dl.dropboxusercontent.com/u/101847371/old-recaptcha.png)
 
