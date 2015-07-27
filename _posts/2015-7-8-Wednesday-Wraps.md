@@ -4,7 +4,7 @@ title: Wednesday Wraps
 ---
 
 Sarah: I will spend tomorrow elaborating more on my work today. There are many questions to ask the coaches regarding my deconstruction of 
-the **adsense.js.es6** file which is a large portion of michaelid's discourse adsense plugin.
+the **adsense.js.es6** file.
 
 Thus, 3 things I did today:
 
