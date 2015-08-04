@@ -1,6 +1,6 @@
 ---
 layout: post
-title: One Plugin to Rule them All
+title: One Plugin to Rule them All...Only if it Works Though
 ---
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=fJlz6nEOT7w
