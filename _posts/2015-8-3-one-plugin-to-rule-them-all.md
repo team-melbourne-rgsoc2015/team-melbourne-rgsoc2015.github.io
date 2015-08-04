@@ -10,12 +10,9 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Today was a productive day because we have now completed the initial working build of the Adsense plugin.  This plugin allows adsense ads to be displayed in Discourse.  Adsense is where you let Google display ads in your blog/website and then when they get clicked by someone in the world, you get paid a share by Google.  A plugin is something people install on top of their software to allow some special functionality e.g. displaying ads.
 The reason plugins exist is because some features/functions are needed by some and not by others and it doesn't make sense to build it into the core of the software if only certina people need it and others done.
 
-But our ambitions are bigger, we want to build one plugin to rule them all.  What does this mean?  Well people can use different ad platforms such as Google Adsense, Google Double Click for Publishers, Amazon Affiliates and more.
+But our ambitions are bigger, we want to build **one plugin to rule them all**.  What does this mean?  Well people can use different ad platforms such as Google Adsense, Google Double Click for Publishers, Amazon Affiliates and more.
 We want to make one plugin that people can install that will allow people to choose which platform they want to use.
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fJlz6nEOT7w
-" target="_blank"><img src="http://img.youtube.com/vi/fJlz6nEOT7w/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+Click on the picture above, it'll take you to a surprise movie that may delight or disappoint you, depending on your likes/dislikes.
 
 So we used Balsamiq (a wireframing tool) to draw out what we wanted our plugin to look like and how it would work for users.  
 You can check out our documentation and a video [here](https://github.com/team-melbourne-rgsoc2015/Roadmap/blob/master/ad-plugin-interface.md).  Kudos to Sarah for the great voiceover!
