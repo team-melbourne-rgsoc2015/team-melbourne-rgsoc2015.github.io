@@ -92,7 +92,13 @@ I don't know why but doing certain things add to your propensity to do other thi
 For example, when I was working in a journalist's bureau, I started drinking wine at home nearly every night.
 Now, everytime that I'm coding but not in a pair, I'm listening to early 2000s hip hop and r&b.  Last night, I even listened to Peter Andre, what the?
 
-Meanwhile, I really want to be one of those token girls in those videos (Nelly, if you somehow are reading this coding blog post, please... please... choose me if you're doing another music video!  I don't look anything like the girls in your videos but I make up for it in Australian humor and coding skills) <3
+Meanwhile, I really want to be an extra in one of these videos 
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GeZZr_p6vB8
+" target="_blank"><img src="http://img.youtube.com/vi/GeZZr_p6vB8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+Nelly, in the unlikely chance that you are reading this coding blog post, please... please... choose me if you're doing another music video!  I don't look anything like the girls in your videos but I make up for it in Australian humor and coding skills <3
 
 Anyway, hope this helps some aspiring plugin author somewhere...
 
