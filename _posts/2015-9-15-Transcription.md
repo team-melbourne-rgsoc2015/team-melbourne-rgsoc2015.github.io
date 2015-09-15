@@ -3,6 +3,8 @@ layout: post
 title: Transcription · Team Melbourne's Podcast
 ---
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/223931295&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
+
 *Vi:* Welcome to our podcast, I’m Vi and I’m Sarah and we’re Team Melbourne of Rails Girls Summer of Code 2015.  In this podcast, we’re going to talk about our 3 month experience in this global fellowship program where we make our first open source contribution by making an advertising plugin for Discourse.  So let’s get started…
 
 *Sarah:* I’ll be asking Vi five pre-prepared questions today to get her view on how the program went. Then, Vi will be asking me five pre-prepared questions to get my view on how the program went. The final question on both our sides will be a surprise question so we will have no idea what the other person will ask. So, let’s get started. 
