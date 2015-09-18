@@ -126,7 +126,7 @@ Another way to check if your ad is just waiting on google to display as opposed 
 
 These are two ways to check if your code is fine and set up properly.  Now all that's waiting for now is for DFP to serve the ad.
 
-by @ladydanger
+by @adcpoywriter
 
 
 
