@@ -3,7 +3,7 @@ layout: post
 title: Why isn't my markdown going onto a new line.  I want to put text on a new line in markdown without p tags
 ---
 
-Here's a little tip.
+Here's a little tip on how to put text on a new line (without p tags or spacing between the lines).
 
 When I was editing the README to the Discourse Advertising Plugin, items would stay on the same line even if I pressed enter for it to go on the next line.  For example:
 
