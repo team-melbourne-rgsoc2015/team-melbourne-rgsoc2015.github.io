@@ -9,7 +9,7 @@ name: Team Melbourne - RGSoC 2015
 description: G'day mate! Vi and Sarah working on Discourse. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://dl.dropboxusercontent.com/u/101847371/logo-rgsoc.png
+avatar: https://s3-us-west-2.amazonaws.com/rgsoc-blog/logo-rgsoc.png
 
 #
 # Flags below are optional
